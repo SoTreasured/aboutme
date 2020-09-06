@@ -2,43 +2,43 @@ body{
     padding: 0px;
     margin: 0px;
 }
+
 div.bg{
     border-radius: 20px;
     display: flex;
-    box-shadow: 1px 0px 9px 3px black;
-    width: 55%;
-    margin: 50px 0px 20px 100px;
+   
 
 }
 
 div.text{
     background-color: rgb(155, 27, 27);
     color: white;
-    padding: 100px 60px;
-    margin: 20px 0px 20px 20px;
+    width: 100vw;
+    padding-top:200px;
+    padding-left: 50px;
 }
 
 p.hello{
-    font-size: 10px;
+    font-size: 20px;
     letter-spacing: 2px;
 }
 
 p.tee{
-    font-size: 30px;
+    font-size: 40px;
     letter-spacing: 2px;
+    font-weight: 900;
 }
 
 p.web{
-    font-size: 15px;
+    font-size: 25px;
     letter-spacing: 2px;
 }
 
 div.photo{
-    width: 70%;
-    height: 70vh;
-    margin: 20px 20px 20px 0px;
+    
+    
 }
 
 img#pic{
-    height: 70vh;
+   height: 100vh;
 }

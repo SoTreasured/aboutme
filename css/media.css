@@ -1,37 +1,19 @@
-@media only screen and (max-width: 580px){
-    body{
-        padding: 0px;
-        margin: 0px;
-        
-    }
-    div.bg{
-        border-radius: 20px;
-        flex-direction: column;
-        box-shadow: 1px 0px 9px 3px black;
-        padding: 40px 20px;
-        margin: 10px 10px;
-        
-    }
-    div.text{
-        background-color: rgb(155, 27, 27);
-        color: white; 
-        padding: 10px 70px 0px 80px;
-        margin-left:10px
-    }
-    div.photo{
-       height: 30vh;
-       margin: -20px 20px 2px 20px;
-       padding: 0px;
-    }
 
-    img#pic{
-        height: 30vh;
-        width: 275px;
-        
-    }
+@media only screen and (min-width: 300px){
+
+
+}
+@media only screen and (max-width: 599px){
     
 }
 
-@media only screen and (max-width:900px){
+@media only screen and (min-width:600px){
     
+}
+
+@media only screen and (min-width: 900px){
+}
+@media only screen and (max-width: 1200px){
+}
+@media only screen and (max-width: 1800px){
 }
